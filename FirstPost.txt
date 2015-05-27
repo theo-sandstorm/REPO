@@ -1,2 +1,4 @@
 första innehållet
 ny rad
+
+Detta är en ny sak.
